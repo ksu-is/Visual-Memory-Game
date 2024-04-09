@@ -1,1 +1,1 @@
--[X]Create a repository in ksu-is
+- [X] Create a repository in ksu-is
