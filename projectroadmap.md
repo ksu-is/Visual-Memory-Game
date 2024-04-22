@@ -11,3 +11,13 @@ SPRINT 2:
 - [X] Add commit messages in respository
 - [X] AT LEAST 6 CODE CHANGES! (Not small ones)
 - [X] Make sure commits are showing up on Github desktop
+
+SPRINT 3:
+- [ ] Start heading toward completion of coding
+- [ ] Test code
+- [ ] Make powerpoint slide introduction for game
+- [ ] powerpoint: List project members
+- [ ] powerpoint: title of project
+- [ ] powerpoint: tag line of what it does
+- [ ] powerpoint: 1-2 screenshots of game
+- [ ] powerpoint: a copy of powerpoint in github to help outside users
