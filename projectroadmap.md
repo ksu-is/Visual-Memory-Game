@@ -7,7 +7,7 @@ SPRINT 1:
 - [X] Explored and evaluted __3___ exiting Python/Jupter code related to Visual Memory Game DONE
 
 SPRINT 2:
-- [ ] Start editing code for program
-- [ ] Add commit messages in respository
-- [ ] AT LEAST 6 CODE CHANGES! (Not small ones)
-- [ ] Make sure commits are showing up on Github desktop
+- [X] Start editing code for program
+- [X] Add commit messages in respository
+- [X] AT LEAST 6 CODE CHANGES! (Not small ones)
+- [X] Make sure commits are showing up on Github desktop
