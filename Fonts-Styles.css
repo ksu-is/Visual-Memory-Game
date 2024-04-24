@@ -39,7 +39,6 @@ body {
 
 .card {
     position: relative;
-    background-color: bisque;
     height: 175px;
     width: 125px;
 }
@@ -51,6 +50,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 12px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.card-back {
+    background-color: bisque;
+    border-color: black;
 }
 
 .KSU {
