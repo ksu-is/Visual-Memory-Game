@@ -13,11 +13,20 @@ SPRINT 2:
 - [X] Make sure commits are showing up on Github desktop
 
 SPRINT 3:
-- [ ] Start heading toward completion of coding
-- [ ] Test code
-- [ ] Make powerpoint slide introduction for game
-- [ ] powerpoint: List project members
-- [ ] powerpoint: title of project
-- [ ] powerpoint: tag line of what it does
-- [ ] powerpoint: 1-2 screenshots of game
-- [ ] powerpoint: a copy of powerpoint in github to help outside users
+- [X] Start heading toward completion of coding
+- [X] Test code
+- [X] Make powerpoint slide introduction for game
+- [X] powerpoint: List project members
+- [X] powerpoint: title of project
+- [X] powerpoint: tag line of what it does
+- [X] powerpoint: 1-2 screenshots of game
+- [X] powerpoint: a copy of powerpoint in github to help outside users
+
+LAST SPRINT:
+- [X] Finish coding
+- [X] Finish game
+- [X] Does it run? YES
+- [X] Presentation ppt
+- [ ] Present on teams
+- [ ] Post recording on teams
+- [ ] Post recording on D2L
